@@ -1,5 +1,7 @@
 # medium-article
 
+Challenge from Le Wagon.
+
 Let’s design a Medium article and deploy it with GitHub pages!
 
 Preview of the project:
